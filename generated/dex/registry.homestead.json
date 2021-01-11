@@ -178,7 +178,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
         },
         "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
@@ -214,7 +214,7 @@
             "decimals": 18,
             "precision": 6,
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
         },
         "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e": {
             "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
@@ -223,7 +223,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
         },
         "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C": {
             "address": "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C",
@@ -232,7 +232,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
         },
         "0x78F225869c08d478c34e5f645d07A87d3fe8eb78": {
             "address": "0x78F225869c08d478c34e5f645d07A87d3fe8eb78",
@@ -241,7 +241,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x78f225869c08d478c34e5f645d07a87d3fe8eb78.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x78f225869c08d478c34e5f645d07a87d3fe8eb78.png"
         },
         "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F": {
             "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -259,7 +259,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
         },
         "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6": {
             "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
@@ -268,7 +268,7 @@
             "decimals": 18,
             "precision": 6,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png"
         },
         "0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5": {
             "address": "0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5",
@@ -277,7 +277,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x81ab848898b5ffd3354dbbefb333d5d183eedcb5.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x81ab848898b5ffd3354dbbefb333d5d183eedcb5.png"
         },
         "0xB2FdD60AD80ca7bA89B9BAb3b5336c2601C020b4": {
             "address": "0xB2FdD60AD80ca7bA89B9BAb3b5336c2601C020b4",
@@ -286,7 +286,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4.png"
         },
         "0x208D174775dc39fe18B1b374972F77ddEc6c0F73": {
             "address": "0x208D174775dc39fe18B1b374972F77ddEc6c0F73",
@@ -295,7 +295,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x208d174775dc39fe18b1b374972f77ddec6c0f73.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x208d174775dc39fe18b1b374972f77ddec6c0f73.png"
         },
         "0xD16c79c8A39D44B2F3eB45D2019cd6A42B03E2A9": {
             "address": "0xD16c79c8A39D44B2F3eB45D2019cd6A42B03E2A9",
@@ -304,7 +304,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9.png"
         },
         "0xF06DdacF71e2992E2122A1a0168C6967aFdf63ce": {
             "address": "0xF06DdacF71e2992E2122A1a0168C6967aFdf63ce",
@@ -313,7 +313,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf06ddacf71e2992e2122a1a0168c6967afdf63ce.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xf06ddacf71e2992e2122a1a0168c6967afdf63ce.png"
         },
         "0x408e41876cCCDC0F92210600ef50372656052a38": {
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
@@ -466,7 +466,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png"
         },
         "0xa117000000f279D81A1D3cc75430fAA017FA5A2e": {
             "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
@@ -484,7 +484,7 @@
             "decimals": 18,
             "precision": 3,
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x20945ca1df56d237fd40036d47e866c7dccd2114.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x20945ca1df56d237fd40036d47e866c7dccd2114.png"
         },
         "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d": {
             "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
@@ -538,7 +538,7 @@
             "decimals": 18,
             "precision": 2,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8.png"
         },
         "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00": {
             "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
@@ -664,7 +664,7 @@
             "decimals": 18,
             "precision": 3,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xe59064a8185ed1fca1d17999621efedfab4425c9.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xe59064a8185ed1fca1d17999621efedfab4425c9.png"
         },
         "0x8D1ce361eb68e9E05573443C407D4A3Bed23B033": {
             "address": "0x8D1ce361eb68e9E05573443C407D4A3Bed23B033",
@@ -673,7 +673,7 @@
             "decimals": 18,
             "precision": 3,
             "hasIcon": false,
-            "logoUrl": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
         }
     },
     "untrusted": [
