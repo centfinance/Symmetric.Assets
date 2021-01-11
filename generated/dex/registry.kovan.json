@@ -9,6 +9,15 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
         },
+        "0x8ceea13266b6D303237bF50De44c97F59Bb2a469": {
+            "address": "0x8ceea13266b6D303237bF50De44c97F59Bb2a469",
+            "name": "Cent",
+            "symbol": "CENT",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
         "0x1528F3FCc26d13F7079325Fb78D9442607781c8C": {
             "address": "0x1528F3FCc26d13F7079325Fb78D9442607781c8C",
             "name": "Dai Stablecoin",

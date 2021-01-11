@@ -1,9 +1,9 @@
 {
-    "name": "Balancer",
-    "timestamp": "2021-01-08T00:00:00.000Z",
-    "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
+    "name": "Cent",
+    "timestamp": "2021-01-11T00:00:00.000Z",
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo256w.png",
     "keywords": [
-        "balancer",
+        "cent",
         "vetted"
     ],
     "version": {
@@ -170,7 +170,7 @@
             "name": "Synth sUSD",
             "symbol": "sUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
         },
         {
             "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
@@ -178,7 +178,7 @@
             "name": "Synth sBTC",
             "symbol": "sBTC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png"
         },
         {
             "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
@@ -186,7 +186,7 @@
             "name": "Synth sETH",
             "symbol": "sETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png"
         },
         {
             "address": "0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
@@ -194,7 +194,7 @@
             "name": "Synth sXAU",
             "symbol": "sXAU",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x261efcdd24cea98652b9700800a13dfbca4103ff.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x261efcdd24cea98652b9700800a13dfbca4103ff.png"
         },
         {
             "address": "0x6A22e5e94388464181578Aa7A6B869e00fE27846",
@@ -202,7 +202,7 @@
             "name": "Synth sXAG",
             "symbol": "sXAG",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x6a22e5e94388464181578aa7a6b869e00fe27846.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x6a22e5e94388464181578aa7a6b869e00fe27846.png"
         },
         {
             "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
@@ -210,7 +210,7 @@
             "name": "PieDAO BTC++",
             "symbol": "BTC++",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
         },
         {
             "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
@@ -218,7 +218,7 @@
             "name": "PieDAO USD++ Pool",
             "symbol": "USD++",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
         },
         {
             "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
@@ -328,7 +328,7 @@
             "name": "Aave Interest bearing Binance USD",
             "symbol": "aBUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8.png"
         },
         {
             "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
@@ -1633,7 +1633,7 @@
             "name": "yUSD Synthetic Token Expiring 1 September 2020",
             "symbol": "yUSD-SEP20",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x81ab848898b5ffd3354dbbefb333d5d183eedcb5.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x81ab848898b5ffd3354dbbefb333d5d183eedcb5.png"
         },
         {
             "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
@@ -1704,7 +1704,7 @@
             "name": "PieDAO DEFI Small Cap",
             "symbol": "DEFI+S",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
         },
         {
             "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
@@ -1980,7 +1980,7 @@
             "name": "yUSD Synthetic Token Expiring 1 October 2020",
             "symbol": "yUSD-OCT20",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4.png"
         },
         {
             "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
@@ -2122,7 +2122,7 @@
             "name": "uUSDrBTC Synthetic Token Expiring 1 October 2020",
             "symbol": "uUSDrBTC-OCT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x208d174775dc39fe18b1b374972f77ddec6c0f73.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x208d174775dc39fe18b1b374972f77ddec6c0f73.png"
         },
         {
             "address": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669",
@@ -2215,7 +2215,7 @@
             "name": "DefiDollar",
             "symbol": "DUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831.png"
         },
         {
             "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
@@ -2277,7 +2277,7 @@
             "name": "Cover Protocol",
             "symbol": "COVER",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x5d8d9f5b96f4438195be9b99eee6118ed4304286.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x5d8d9f5b96f4438195be9b99eee6118ed4304286.png"
         },
         {
             "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
@@ -2309,7 +2309,7 @@
             "name": "PieDAO DOUGH v2",
             "symbol": "DOUGH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
         },
         {
             "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
@@ -2363,7 +2363,7 @@
             "name": "uUSDrBTC Synthetic Token Expiring 31 December 2020",
             "symbol": "uUSDrBTC-DEC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf06ddacf71e2992e2122a1a0168c6967afdf63ce.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xf06ddacf71e2992e2122a1a0168c6967afdf63ce.png"
         },
         {
             "address": "0xD16c79c8A39D44B2F3eB45D2019cd6A42B03E2A9",
@@ -2371,7 +2371,7 @@
             "name": "uUSDwETH Synthetic Token Expiring 31 December 2020",
             "symbol": "uUSDwETH-DEC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9.png"
         },
         {
             "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
@@ -2493,7 +2493,7 @@
             "name": "PieDAO DEFI Large Cap",
             "symbol": "DEFI+L",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x78f225869c08d478c34e5f645d07a87d3fe8eb78.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x78f225869c08d478c34e5f645d07a87d3fe8eb78.png"
         },
         {
             "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
@@ -2563,7 +2563,7 @@
             "name": "Rally",
             "symbol": "RLY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png"
         },
         {
             "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
@@ -2767,7 +2767,7 @@
             "name": "Nsure Network Token",
             "symbol": "Nsure",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x20945ca1df56d237fd40036d47e866c7dccd2114.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x20945ca1df56d237fd40036d47e866c7dccd2114.png"
         },
         {
             "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
@@ -2783,7 +2783,7 @@
             "name": "PrimeDAO Token",
             "symbol": "PRIME",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xe59064a8185ed1fca1d17999621efedfab4425c9.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xe59064a8185ed1fca1d17999621efedfab4425c9.png"
         },
         {
             "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
@@ -2858,7 +2858,7 @@
             "name": "xAAVE",
             "symbol": "xAAVEa",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x80dc468671316e50d4e9023d3db38d3105c1c146.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x80dc468671316e50d4e9023d3db38d3105c1c146.png"
         },
         {
             "address": "0x704De5696dF237c5B9ba0De9ba7e0C63dA8eA0Df",
@@ -2866,7 +2866,7 @@
             "name": "xAAVE",
             "symbol": "xAAVEb",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x704de5696df237c5b9ba0de9ba7e0c63da8ea0df.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x704de5696df237c5b9ba0de9ba7e0c63da8ea0df.png"
         },
         {
             "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
@@ -3013,6 +3013,43 @@
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xDcB01cc464238396E213a6fDd933E36796eAfF9f/logo.png"
         },
         {
+            "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+            "chainId": 1,
+            "name": "Idle",
+            "symbol": "IDLE",
+            "decimals": 18
+        },
+        {
+            "address": "0x69e8b9528CABDA89fe846C67675B5D73d463a916",
+            "chainId": 1,
+            "name": "OPEN Governance Token",
+            "symbol": "OPEN",
+            "decimals": 18
+        },
+        {
+            "address": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
+            "chainId": 1,
+            "name": "RARE.UNIQUE",
+            "symbol": "RARE",
+            "decimals": 18
+        },
+        {
+            "address": "0x30cF203b48edaA42c3B4918E955fED26Cd012A3F",
+            "chainId": 1,
+            "name": "Seed",
+            "symbol": "SEED",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x30cf203b48edaa42c3b4918e955fed26cd012a3f.png"
+        },
+        {
+            "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+            "chainId": 1,
+            "name": "Wrapped UST Token",
+            "symbol": "UST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo.png"
+        },
+        {
             "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
             "chainId": 1,
             "name": "ProToken",
@@ -3066,7 +3103,7 @@
             "name": "Bankless Season 0",
             "symbol": "BAP0",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x705c71b262c511b66baa4791cc2be61b971bd784.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x705c71b262c511b66baa4791cc2be61b971bd784.png"
         },
         {
             "address": "0x8D1ce361eb68e9E05573443C407D4A3Bed23B033",
@@ -3074,7 +3111,7 @@
             "name": "PieDAO DEFI++",
             "symbol": "DEFI++",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
         },
         {
             "address": "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a",
@@ -3082,7 +3119,7 @@
             "name": "Wrapped CRES",
             "symbol": "wCRES",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xa0afaa285ce85974c3c881256cb7f225e3a1178a.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xa0afaa285ce85974c3c881256cb7f225e3a1178a.png"
         },
         {
             "address": "0x7f1F2D3dFa99678675ECE1C243d3f7bC3746db5D",
@@ -3090,7 +3127,7 @@
             "name": "Tapmydata",
             "symbol": "TAP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d.png"
         },
         {
             "address": "0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
@@ -3105,7 +3142,14 @@
             "name": "Furucombo",
             "symbol": "COMBO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xffffffff2ba8f66d4e51811c5190992176930278.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xffffffff2ba8f66d4e51811c5190992176930278.png"
+        },
+        {
+            "address": "0x8ceea13266b6D303237bF50De44c97F59Bb2a469",
+            "chainId": 42,
+            "name": "Cent",
+            "symbol": "CENT",
+            "decimals": 18
         },
         {
             "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",

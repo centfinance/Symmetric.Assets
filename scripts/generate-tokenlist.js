@@ -41,11 +41,11 @@ async function generate(name, tokens) {
 	const date = new Date(dayTimestamp);
 	const timestamp = date.toISOString();
 	const list = {
-		name: 'Balancer',
+		name: 'Cent',
 		timestamp,
-		logoURI: 'https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png',
+		logoURI: 'https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo256w.png',
 		keywords: [
-			'balancer',
+			'cent',
 			name,
 		],
 		version: {
@@ -95,7 +95,7 @@ async function getMetadata(tokens, overwrite) {
 }
 
 async function getNetworkMetadata(network, tokens, overwrite) {
-	const infuraKey = '237c3102f39b4940abbe12dc49165cd6';
+	const infuraKey = 'e68cb3352f7d4fb7848c4650917e4422';
 
 	const providers = {
 		kovan: new ethers.providers.InfuraProvider('kovan', infuraKey),
@@ -103,7 +103,7 @@ async function getNetworkMetadata(network, tokens, overwrite) {
 	};
 
 	const multicallContract = {
-		kovan: '0x2cc8688C5f75E365aaEEb4ea8D6a480405A48D2A',
+		kovan: '0xa1A5Ed38406f12681B9F010717b51573Dff97a3c',
 		homestead: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441',
 	};
 
@@ -175,7 +175,7 @@ function getLogoURI(assets, address) {
 		return 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png'
 	}
 	if (assets.local.includes(address.toLowerCase())) {
-		return `https://raw.githubusercontent.com/balancer-labs/assets/master/assets/${address.toLowerCase()}.png`
+		return `https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/${address.toLowerCase()}.png`
 	}
 	if (assets.trustwallet.includes(address)) {
 		return `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${address}/logo.png`;
