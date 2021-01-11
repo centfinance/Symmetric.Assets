@@ -3149,7 +3149,8 @@
             "chainId": 42,
             "name": "Cent",
             "symbol": "CENT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
         },
         {
             "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
