@@ -23,6 +23,8 @@ async function run() {
 		const vetted = {
 			kovan: [...Object.keys(eligible.kovan), ...ui.kovan],
 			homestead: [...Object.keys(eligible.homestead), ...ui.homestead],
+			sokol: [...Object.keys(eligible.sokol), ...ui.sokol],
+			xdai: [...Object.keys(eligible.xdai), ...ui.xdai],
 		};
 		const vettedMetadata = await getMetadata(vetted, data.metadataOverwrite);
 		const vettedTokens = getTokens(data, vettedMetadata);
@@ -87,10 +89,14 @@ async function getData() {
 async function getMetadata(tokens, overwrite) {
 	const kovan = await getNetworkMetadata('kovan', tokens.kovan, overwrite.kovan);
 	const homestead = await getNetworkMetadata('homestead', tokens.homestead, overwrite.homestead);
+	const sokol = await getNetworkMetadata('sokol', tokens.sokol, overwrite.sokol);
+	const xdai = await getNetworkMetadata('xdai', tokens.xdai, overwrite.xdai);
 
 	return {
 		kovan,
 		homestead,
+		sokol,
+		xdai
 	};
 }
 
@@ -100,11 +106,15 @@ async function getNetworkMetadata(network, tokens, overwrite) {
 	const providers = {
 		kovan: new ethers.providers.InfuraProvider('kovan', infuraKey),
 		homestead: new ethers.providers.InfuraProvider('homestead', infuraKey),
+		sokol: new ethers.providers.JsonRpcProvider("https://sokol.poa.network"),
+		xdai: new ethers.providers.JsonRpcProvider("https://rpc.xdaichain.com"),
 	};
 
 	const multicallContract = {
 		kovan: '0xa1A5Ed38406f12681B9F010717b51573Dff97a3c',
 		homestead: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441',
+		sokol: '0xD89ab91c7ad31bf488CB78CD7459B347Aca48E43',
+		xdai: '0x3EF07169361cF84c666113b48d2646d8D73Df361',
 	};
 
 	const provider = providers[network];
@@ -156,6 +166,32 @@ function getTokens(data, metadata) {
 	for (const address in metadata.kovan) {
 		const chainId = 42;
 		const token = metadata.kovan[address];
+		const { decimals, symbol, name } = token;
+		tokens.push({
+			address,
+			chainId,
+			name,
+			symbol,
+			decimals,
+			logoURI: getLogoURI(data.assets, address),
+		});
+	}
+	for (const address in metadata.sokol) {
+		const chainId = 77;
+		const token = metadata.sokol[address];
+		const { decimals, symbol, name } = token;
+		tokens.push({
+			address,
+			chainId,
+			name,
+			symbol,
+			decimals,
+			logoURI: getLogoURI(data.assets, address),
+		});
+	}
+	for (const address in metadata.xdai) {
+		const chainId = 100;
+		const token = metadata.xdai[address];
 		const { decimals, symbol, name } = token;
 		tokens.push({
 			address,

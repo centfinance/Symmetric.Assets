@@ -21,10 +21,14 @@ async function run() {
 async function getMissingIds(tokens, coingecko) {
 	const kovan = await getMissingNetworkIds(tokens.kovan, coingecko.kovan);
 	const homestead = await getMissingNetworkIds(tokens.homestead, coingecko.homestead);
+	const sokol = await getMissingNetworkIds(tokens.sokol, coingecko.sokol);
+	const xdai = await getMissingNetworkIds(tokens.xdai, coingecko.xdai);
 
 	return {
 		kovan,
 		homestead,
+		sokol,
+		xdai,
 	};
 }
 
@@ -88,6 +92,8 @@ async function getData() {
 function mergeTokenLists(lists) {
 	const kovan = [];
 	const homestead = [];
+	const sokol = [];
+	const xdai = [];
 
 	for (const datasetName in lists) {
 		if (datasetName === 'untrusted') {
@@ -110,6 +116,20 @@ function mergeTokenLists(lists) {
 			dataset_homestead = Object.keys(dataset.homestead);
 		}
 
+		let dataset_sokol = [];
+		if (dataset.sokol instanceof Array) {
+			dataset_sokol = dataset.sokol;
+		} else {
+			dataset_sokol = Object.keys(dataset.sokol);
+		}
+
+		let dataset_xdai = [];
+		if (dataset.xdai instanceof Array) {
+			dataset_xdai = dataset.xdai;
+		} else {
+			dataset_xdai = Object.keys(dataset.xdai);
+		}
+
 		for (const token of dataset_kovan) {
 			kovan.push(token);
 		}
@@ -117,11 +137,21 @@ function mergeTokenLists(lists) {
 		for (const token of dataset_homestead) {
 			homestead.push(token);
 		}
+
+		for (const token of dataset_sokol) {
+			sokol.push(token);
+		}
+
+		for (const token of dataset_xdai) {
+			xdai.push(token);
+		}
 	}
 
 	return {
 		kovan,
 		homestead,
+		sokol,
+		xdai
 	};
 }
 

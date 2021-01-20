@@ -11,6 +11,20 @@
 		"0x37f03a12241E9FD3658ad6777d289c3fb8512Bc9": "aragon",
 		"0xccb0F4Cf5D3F97f4a55bb5f5cA321C3ED033f244": "0x"
 	},
+	"sokol": {
+		"0x6B175474E89094C44Da98b954EedeAC495271d0F": "dai",
+		"0x0Ae055097C6d159879521C384F1D2123D1f195e6": "xdai-stake",
+		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum"
+	},
+	"xdai": {
+		"0x0ae055097c6d159879521c384f1d2123d1f195e6": "xdai-stake",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "weth",
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "wrapped-bitcoin",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "usd-coin",
+		"0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "uniswap",
+		"0x514910771af9ca656af840dff83e8264ecf986ca": "link",
+		"0x25e1474170c4c0aa64fa98123bdc8db49d7802fa": "bid"
+	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum",
 		"0xba100000625a3754423978a60c9317c58a424e3D": "balancer",
