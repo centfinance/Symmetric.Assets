@@ -1,0 +1,45 @@
+{
+    "tokens": {
+        "ether": {
+            "address": "ether",
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        },
+        "0x2E422C7fb2b5149A28d2c408f830504b873f14B1": {
+            "address": "0x2E422C7fb2b5149A28d2c408f830504b873f14B1",
+            "name": "Wrapped POA",
+            "symbol": "WPOA",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0x408eC1Bb883dA0EA0fb3C955ea6BEfcd05Aa7C3A": {
+            "address": "0x408eC1Bb883dA0EA0fb3C955ea6BEfcd05Aa7C3A",
+            "name": "STAKE on xDai",
+            "symbol": "STAKE",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0xB7c91068aC96051573465E43603600C0684a7002": {
+            "address": "0xB7c91068aC96051573465E43603600C0684a7002",
+            "name": "Wrapped Ether on xDai",
+            "symbol": "WETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

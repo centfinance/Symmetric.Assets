@@ -25,6 +25,8 @@ async function run() {
 async function generate(lists, data, metadata) {
 	await generateNetwork('kovan', lists, data, metadata);
 	await generateNetwork('homestead', lists, data, metadata);
+	await generateNetwork('sokol', lists, data, metadata);
+	await generateNetwork('xdai', lists, data, metadata);
 }
 
 async function generateNetwork(network, lists, data, metadata) {
@@ -148,10 +150,14 @@ async function getData() {
 async function getMetadata(tokens, overwrite) {
 	const kovan = await getNetworkMetadata('kovan', tokens.kovan, overwrite.kovan);
 	const homestead = await getNetworkMetadata('homestead', tokens.homestead, overwrite.homestead);
+	const sokol = await getNetworkMetadata('sokol', tokens.sokol, overwrite.sokol);
+	const xdai = await getNetworkMetadata('xdai', tokens.xdai, overwrite.xdai);
 
 	return {
 		kovan,
 		homestead,
+		sokol,
+		xdai
 	};
 }
 
@@ -161,11 +167,15 @@ async function getNetworkMetadata(network, tokens, overwrite) {
 	const providers = {
 		kovan: new ethers.providers.InfuraProvider('kovan', infuraKey),
 		homestead: new ethers.providers.InfuraProvider('homestead', infuraKey),
+		sokol: new ethers.providers.JsonRpcProvider("https://sokol.poa.network"),
+		xdai: new ethers.providers.JsonRpcProvider("https://rpc.xdaichain.com"),
 	};
 
 	const multicallContract = {
 		kovan: '0xa1A5Ed38406f12681B9F010717b51573Dff97a3c',
 		homestead: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441',
+		sokol: '0xD89ab91c7ad31bf488CB78CD7459B347Aca48E43',
+		xdai: '0x3EF07169361cF84c666113b48d2646d8D73Df361',
 	};
 
 	const provider = providers[network];
@@ -248,6 +258,8 @@ function getMainnetAddress(address) {
 function mergeTokenLists(lists) {
 	const kovan = [];
 	const homestead = [];
+	const sokol = [];
+	const xdai = [];
 
 	for (const datasetName in lists) {
 		if (datasetName === 'untrusted') {
@@ -270,6 +282,20 @@ function mergeTokenLists(lists) {
 			dataset_homestead = Object.keys(dataset.homestead);
 		}
 
+		let dataset_sokol = [];
+		if (dataset.sokol instanceof Array) {
+			dataset_sokol = dataset.sokol;
+		} else {
+			dataset_sokol = Object.keys(dataset.sokol);
+		}
+
+		let dataset_xdai = [];
+		if (dataset.xdai instanceof Array) {
+			dataset_xdai = dataset.xdai;
+		} else {
+			dataset_xdai = Object.keys(dataset.xdai);
+		}
+
 		for (const token of dataset_kovan) {
 			kovan.push(token);
 		}
@@ -277,17 +303,29 @@ function mergeTokenLists(lists) {
 		for (const token of dataset_homestead) {
 			homestead.push(token);
 		}
+
+		for (const token of dataset_sokol) {
+			sokol.push(token);
+		}
+
+		for (const token of dataset_xdai) {
+			xdai.push(token);
+		}
 	}
 
 	return {
 		kovan,
 		homestead,
+		sokol,
+		xdai
 	};
 }
 
 function verifyInputs(lists) {
 	verifyNetworkInputs(lists, 'kovan');
 	verifyNetworkInputs(lists, 'homestead');
+	verifyNetworkInputs(lists, 'sokol');
+	verifyNetworkInputs(lists, 'xdai');
 }
 
 function verifyNetworkInputs(lists, network) {
