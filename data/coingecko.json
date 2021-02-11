@@ -17,13 +17,13 @@
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum"
 	},
 	"xdai": {
-		"0x0ae055097c6d159879521c384f1d2123d1f195e6": "xdai-stake",
-		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "weth",
-		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "wrapped-bitcoin",
-		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "usd-coin",
-		"0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "uniswap",
-		"0x514910771af9ca656af840dff83e8264ecf986ca": "link",
-		"0x25e1474170c4c0aa64fa98123bdc8db49d7802fa": "bid"
+		"0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e": "xdai-stake",
+		"0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1": "weth",
+		"0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252": "wrapped-bitcoin",
+		"0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": "usd-coin",
+		"0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74": "uniswap",
+		"0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2": "link",
+		"0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB": "bid"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum",
