@@ -309,16 +309,6 @@
             "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
             "ethAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
         },
-        "0x4ECaBa5870353805a9F068101A40E0f32ed605C6": {
-            "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-            "name": "Tether USD on xDai",
-            "symbol": "USDT",
-            "decimals": 6,
-            "precision": 2,
-            "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-            "ethAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
-        },
         "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252": {
             "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
             "name": "Wrapped BTC on xDai",
