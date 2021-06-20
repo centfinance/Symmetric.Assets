@@ -1,5 +1,5 @@
 {
-    "name": "Cent",
+    "name": "Symmetry",
     "timestamp": "2021-01-20T00:00:00.000Z",
     "logoURI": "https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo256w.png",
     "keywords": [
@@ -3300,6 +3300,158 @@
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        }
+        },
+        {
+            "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+            "chainId": 100,
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+        },
+        {
+            "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+            "chainId": 100,
+            "name": "Wrapped XDAI",
+            "symbol": "WXDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+        },
+        {
+            "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+            "chainId": 44787,
+            "name": "Celo Euro",
+            "symbol": "cEUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
+            "chainId": 44787,
+            "name": "Moola cEUR",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
+            "chainId": 44787,
+            "name": "Moola cUSD",
+            "symbol": "mcUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
+            "chainId": 44787,
+            "name": "Moola CELO",
+            "symbol": "mCELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+            "chainId": 44787,
+            "name": "Celo Dollar",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+            "chainId": 44787,
+            "name": "Savings CELO",
+            "symbol": "sCELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+            "chainId": 44787,
+            "name": "Celo",
+            "symbol": "CELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+            "chainId": 42220,
+            "name": "Ubeswap",
+            "symbol": "UBE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+            "chainId": 42220,
+            "name": "Savings CELO",
+            "symbol": "sCELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
+            "chainId": 42220,
+            "name": "Celo Moss Carbon Credit",
+            "symbol": "cMCO2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+            "chainId": 42220,
+            "name": "Celo",
+            "symbol": "CELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+            "chainId": 42220,
+            "name": "Moola cUSD",
+            "symbol": "mcUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+            "chainId": 42220,
+            "name": "Moola CELO",
+            "symbol": "mCELO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+            "chainId": 42220,
+            "name": "Celo Dollar",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+            "chainId": 42220,
+            "name": "Duniapay West African CFA franc",
+            "symbol": "cXOF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+            "chainId": 42220,
+            "name": "Moola cEUR",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          },
+          {
+            "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+            "chainId": 42220,
+            "name": "Celo Euro",
+            "symbol": "cEUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+          }
     ]
 }

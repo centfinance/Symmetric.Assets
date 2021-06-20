@@ -1,13 +1,13 @@
 {
     "tokens": {
-        "ether": {
-            "address": "ether",
-            "name": "Ether",
-            "symbol": "ETH",
+        "xdai": {
+            "address": "xdai",
+            "name": "Xdai",
+            "symbol": "XDAI",
             "decimals": 18,
-            "precision": 4,
+            "precision": 5,
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+            "logoUrl": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
         },
         "0x437a044fb4693890E61D2C1c88E3718E928B8E90": {
 	    "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
@@ -39,6 +39,16 @@
 	    "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png",
 	    "ethAddress": "0x0ae055097c6d159879521c384f1d2123d1f195e6"
 	},
+	"0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74": {
+	    "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+	    "name": "Uniswap on xDai",
+	    "symbol": "UNI",
+	    "decimals": 18,
+	    "precision": 3,
+	    "hasIcon": true,
+	    "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+	    "ethAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+	},
 	"0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": {
 	    "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
 	    "name": "USD//C on xDai",
@@ -68,6 +78,16 @@
 	    "hasIcon": true,
 	    "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
 	    "ethAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	},
+	"0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": {
+		"address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+		"name": "Wrapped XDAI",
+		"symbol": "WXDAI",
+		"decimals": 18,
+		"precision": 5,
+		"hasIcon": true,
+		"logoUrl": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png",
+		"ethaddress": "0x0Ae055097C6d159879521C384F1D2123D1f195e6"
 	}
     },
     "untrusted": [
