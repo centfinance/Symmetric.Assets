@@ -22,7 +22,9 @@
 		"0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e": "xdai-stake",
 		"0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": "usd-coin",
 		"0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252": "wrapped-bitcoin",
-		"0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1": "ethereum"
+		"0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1": "ethereum",
+		"0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74": "uniswap",
+		"0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": "wrapped-xdai"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum",

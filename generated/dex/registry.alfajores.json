@@ -1,0 +1,81 @@
+{
+    "tokens": {
+        "ether": {
+            "address": "ether",
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        },
+        "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F": {
+            "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+            "name": "Celo Euro",
+            "symbol": "cEUR",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0x32974C7335e649932b5766c5aE15595aFC269160": {
+            "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
+            "name": "Moola cEUR",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0x71DB38719f9113A36e14F409bAD4F07B58b4730b": {
+            "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
+            "name": "Moola cUSD",
+            "symbol": "mcUSD",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003": {
+            "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
+            "name": "Moola CELO",
+            "symbol": "mCELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1": {
+            "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+            "name": "Celo Dollar",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07": {
+            "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+            "name": "Savings CELO",
+            "symbol": "sCELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        },
+        "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9": {
+            "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+            "name": "Celo",
+            "symbol": "CELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

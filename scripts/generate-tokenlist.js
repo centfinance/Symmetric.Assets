@@ -114,7 +114,7 @@ async function getNetworkMetadata(network, tokens, overwrite) {
 		kovan: '0xa1A5Ed38406f12681B9F010717b51573Dff97a3c',
 		homestead: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441',
 		sokol: '0xD89ab91c7ad31bf488CB78CD7459B347Aca48E43',
-		xdai: '0x3EF07169361cF84c666113b48d2646d8D73Df361',
+		xdai: '0xb24898396f9E1D515CED0575A01BaC4d0735BF15',
 	};
 
 	const provider = providers[network];
