@@ -713,12 +713,20 @@
             "decimals": 18
         },
         {
-            "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
+            "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
             "chainId": 100,
-            "name": "Aragon Network Token on xDai",
-            "symbol": "ANT",
+            "name": "Agave Token",
+            "symbol": "AGVE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+        },
+        {
+            "address": "0x44fA8E6f47987339850636F88629646662444217",
+            "chainId": 100,
+            "name": "Dai Stablecoin on xDai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
         },
         {
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
@@ -726,15 +734,7 @@
             "name": "Honey",
             "symbol": "HNY",
             "decimals": 18,
-            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
-        },
-        {
-            "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-            "chainId": 100,
-            "name": "STAKE on xDai",
-            "symbol": "STAKE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
         },
         {
             "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
@@ -742,7 +742,7 @@
             "name": "USD//C on xDai",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
@@ -750,7 +750,7 @@
             "name": "Wrapped BTC on xDai",
             "symbol": "WBTC",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
         },
         {
             "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
@@ -758,15 +758,7 @@
             "name": "Wrapped Ether on xDai",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        },
-        {
-            "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
-            "chainId": 100,
-            "name": "Uniswap",
-            "symbol": "UNI",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
@@ -774,7 +766,7 @@
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
         },
         {
             "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
