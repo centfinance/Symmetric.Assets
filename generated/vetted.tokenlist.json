@@ -3275,7 +3275,7 @@
             "name": "Honey",
             "symbol": "HNY",
             "decimals": 18,
-            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
         },
         {
             "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
