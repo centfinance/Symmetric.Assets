@@ -3146,6 +3146,14 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/cent.dex_assets/master/assets/0xffffffff2ba8f66d4e51811c5190992176930278.png"
         },
         {
+            "address": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345",
+            "chainId": 1,
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        {
             "address": "0x8ceea13266b6D303237bF50De44c97F59Bb2a469",
             "chainId": 42,
             "name": "Cent",
@@ -3233,6 +3241,14 @@
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
         },
         {
+            "address": "0xfB66054D9C7b357b3134Dc47eD54EddAcc012f44",
+            "chainId": 42,
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        {
             "address": "0x2E422C7fb2b5149A28d2c408f830504b873f14B1",
             "chainId": 77,
             "name": "Wrapped POA",
@@ -3308,6 +3324,14 @@
             "symbol": "WXDAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
+        },
+        {
+            "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+            "chainId": 100,
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
         },
         {
             "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",

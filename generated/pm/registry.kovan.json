@@ -120,6 +120,17 @@
       "color": "#536dfe",
       "hasIcon": false,
       "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    },
+    "0xfB66054D9C7b357b3134Dc47eD54EddAcc012f44": {
+        "address": "0xfB66054D9C7b357b3134Dc47eD54EddAcc012f44",
+        "id": "Symmetric",
+        "name": "Symmetric",
+        "symbol": "SYMM",
+        "decimals": 18,
+        "precision": 3,
+        "color": "#8d6268",
+        "hasIcon": false,
+        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
     }
   },
   "untrusted": [

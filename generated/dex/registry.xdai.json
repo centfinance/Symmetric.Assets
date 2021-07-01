@@ -17,7 +17,7 @@
 			"precision": 3,
 			"hasIcon": true,
 			"logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png",
-			"ethAddress": ""
+			"ethAddress": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843"
 		},
 		"0x44fA8E6f47987339850636F88629646662444217": {
 			"address": "0x44fA8E6f47987339850636F88629646662444217",
@@ -78,6 +78,16 @@
 			"hasIcon": true,
 			"logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
 			"ethaddress": "0x0Ae055097C6d159879521C384F1D2123D1f195e6"
+		},
+		"0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": {
+			"address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+			"name": "Symmetric",
+			"symbol": "SYMM",
+			"decimals": 18,
+			"precision": 3,
+			"hasIcon": true,
+			"logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png",
+			"ethAddress": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345"
 		}
     },
     "untrusted": [
