@@ -36,6 +36,18 @@
         "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
         "ethAddress": "0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE"
     },
+    "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": {
+        "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+        "id": "Symmetric",
+        "name": "Symmetric",
+        "symbol": "SYMM",
+        "decimals": 18,
+        "precision": 3,
+        "color": "#8d6268",
+        "hasIcon": true,
+        "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png",
+        "ethAddress": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345"
+    },
     "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": {
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "id": "usd-coin",
@@ -83,18 +95,6 @@
         "hasIcon": true,
         "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
         "ethAddress": "0x0Ae055097C6d159879521C384F1D2123D1f195e6"
-    },
-    "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": {
-        "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
-        "id": "Symmetric",
-        "name": "Symmetric",
-        "symbol": "SYMM",
-        "decimals": 18,
-        "precision": 3,
-        "color": "#8d6268",
-        "hasIcon": true,
-        "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png",
-        "ethAddress": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345"
     }
     },
     "untrusted": [
