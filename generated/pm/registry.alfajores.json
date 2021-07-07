@@ -9,8 +9,8 @@
             "symbol": "CELO",
             "decimals": 18,
             "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/info/logo.png"
         },
         "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1": {
             "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
@@ -21,8 +21,8 @@
             "symbol": "cUSD",
             "decimals": 18,
             "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/info/logo.png"
         },
         "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F": {
             "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
@@ -32,8 +32,8 @@
             "symbol": "cEUR",
             "decimals": 18,
             "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/info/logo.png"
         },
         "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003": {
             "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
