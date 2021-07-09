@@ -26,42 +26,6 @@
             "precision": 4,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/info/logo.png"
-        },
-        "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003": {
-            "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
-            "name": "Moola CELO",
-            "symbol": "mCELO",
-            "decimals": 18,
-            "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
-        },
-        "0x71DB38719f9113A36e14F409bAD4F07B58b4730b": {
-            "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
-            "name": "Moola cUSD",
-            "symbol": "mcUSD",
-            "decimals": 18,
-            "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
-        },
-        "0x32974C7335e649932b5766c5aE15595aFC269160": {
-            "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
-            "name": "Moola cEUR",
-            "symbol": "mcEUR",
-            "decimals": 18,
-            "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
-        },
-        "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07": {
-            "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
-            "name": "Savings CELO",
-            "symbol": "sCELO",
-            "decimals": 18,
-            "precision": 4,
-            "hasIcon": false,
-            "logoUrl": ""
         }
     },
     "untrusted": [
