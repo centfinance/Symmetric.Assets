@@ -2,36 +2,47 @@
   "tokens": {
     "0x2E422C7fb2b5149A28d2c408f830504b873f14B1": {
       "address": "0x2E422C7fb2b5149A28d2c408f830504b873f14B1",
-      "id": "",
+      "id": "poa-network",
       "name": "Wrapped POA",
       "symbol": "WPOA",
       "decimals": 18,
       "precision": 4,
-      "color": "#828384",
+      "color": "#433455",
       "hasIcon": false,
       "logoUrl": ""
     },
     "0x408eC1Bb883dA0EA0fb3C955ea6BEfcd05Aa7C3A": {
       "address": "0x408eC1Bb883dA0EA0fb3C955ea6BEfcd05Aa7C3A",
-      "id": "",
+      "id": "xdai-stake",
       "name": "STAKE on xDai",
       "symbol": "STAKE",
       "decimals": 18,
       "precision": 4,
-      "color": "#828384",
-      "hasIcon": false,
-      "logoUrl": ""
+      "color": "#9d9f7f",
+      "hasIcon": true,
+      "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    },
+    "0x705581f5830Cfd11715020543f5309ADEBdbd074": {
+      "address": "0x705581f5830Cfd11715020543f5309ADEBdbd074",
+      "id": "wrapped-xdai",
+      "name": "Wrapped XDAI",
+      "symbol": "WXDAI",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#5d6872",
+      "hasIcon": true,
+      "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
     },
     "0xB7c91068aC96051573465E43603600C0684a7002": {
       "address": "0xB7c91068aC96051573465E43603600C0684a7002",
-      "id": "",
+      "id": "ethereum",
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
       "decimals": 18,
       "precision": 4,
-      "color": "#fab323",
-      "hasIcon": false,
-      "logoUrl": ""
+      "color": "#fafafa",
+      "hasIcon": true,
+      "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   },
   "untrusted": [
