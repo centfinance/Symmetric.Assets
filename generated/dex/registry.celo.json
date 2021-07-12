@@ -33,7 +33,7 @@
             "symbol": "UBE",
             "decimals": 18,
             "precision": 4,
-            "hasIcon": false,
+            "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
         }
     },
