@@ -24,6 +24,17 @@
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
             "ethAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
         },
+        "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61": {
+			"address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+            "id": "fraction",
+			"name": "Own a fraction (FRACTION)",
+			"symbol": "FRACTION",
+			"decimals": 18,
+			"precision": 6,
+            "color": "#be955c",
+			"hasIcon": true,
+			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
+		},
         "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9": {
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "id": "honey",
@@ -36,6 +47,17 @@
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
             "ethAddress": "0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE"
         },
+        "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51": {
+			"address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+            "id": "minerva-wallet",
+			"name": "Minerva Wallet SuperToken",
+			"symbol": "MIVA",
+			"decimals": 18,
+			"precision": 3,
+            "color": "#557064",
+			"hasIcon": true,
+			"logoUrl": "https://minerva.digital/i/MIVA-Token.svg"
+		},
         "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": {
             "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
             "id": "Symmetric",
