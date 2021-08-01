@@ -33,7 +33,8 @@
 			"precision": 6,
             "color": "#be955c",
 			"hasIcon": true,
-			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
+			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
+            "ethAddress": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61"
 		},
         "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9": {
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
@@ -68,7 +69,8 @@
 			"precision": 3,
             "color": "#557064",
 			"hasIcon": true,
-			"logoUrl": "https://minerva.digital/i/MIVA-Token.svg"
+			"logoUrl": "https://minerva.digital/i/MIVA-Token.svg",
+            "ethAddress": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51"
 		},
         "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e": {
             "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",

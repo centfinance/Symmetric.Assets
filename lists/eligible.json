@@ -20,19 +20,17 @@
 		"0xB7c91068aC96051573465E43603600C0684a7002": "uncapped"
 	},
 	"xdai": {
-		"0x3a97704a1b25F08aa230ae53B352e2e72ef52843": "uncapped",
-		"0x44fA8E6f47987339850636F88629646662444217": "uncapped",
-		"0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61": "uncapped",
-		"0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9": "uncapped",
-		"0x63e62989D9EB2d37dfDB1F93A22f063635b07d51": "uncapped",
-		"0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2": "uncapped",
-		"0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e": "uncapped",
-		"0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": "uncapped",
-		"0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": "uncapped",
-		"0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252": "uncapped",
-		"0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1": "uncapped",
-		"0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": "uncapped",
-		"0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD": "uncapped"
+		"0x3a97704a1b25f08aa230ae53b352e2e72ef52843": "uncapped",
+		"0x6b175474e89094c44da98b954eedeac495271d0f": "uncapped",
+		"0x2bf2ba13735160624a0feae98f6ac8f70885ea61": "uncapped",
+		"0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE": "uncapped",
+		"0x514910771af9ca656af840dff83e8264ecf986ca": "uncapped",
+		"0x63e62989d9eb2d37dfdb1f93a22f063635b07d51": "uncapped",
+		"0x0ae055097c6d159879521c384f1d2123d1f195e6": "uncapped",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "uncapped",
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "uncapped",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "uncapped",
+		"0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": "uncapped"
 	},
 	"alfajores": {
 		"0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9": "uncapped",
