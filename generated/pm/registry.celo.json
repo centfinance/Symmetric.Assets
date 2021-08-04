@@ -1,5 +1,29 @@
 {
     "tokens": {
+        "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b": {
+            "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+            "id": "wrapped-bitcoin",
+            "color": "#c7bdf4",
+            "ethAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "name": "Wrapped Bitcoin",
+            "symbol": "cBTC",
+            "decimals": 8,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cBTC.png"
+        },
+        "0x2DEf4285787d58a2f811AF24755A8150622f4361": {
+            "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+            "id": "ethereum",
+            "color": "#c28d75",
+            "ethAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "cETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cETH.svg"
+        },
         "0x471EcE3750Da237f93B8E339c536989b8978a438": {
             "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
             "id": "celo",
@@ -16,7 +40,7 @@
             "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
             "id": "celo-dollar",
             "color": "#9d9f7f",
-            "ethAddress": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195",
+            "ethAddress": "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75",
             "name": "Celo Dollar",
             "symbol": "cUSD",
             "decimals": 18,
@@ -36,6 +60,42 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
         },
+        "0x7037F7296B2fc7908de7b57a89efaa8319f0C500": {
+            "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+            "id": "moola-celo",
+            "color": "#be955c",
+            "ethAddress": "",
+            "name": "Moola CELO",
+            "symbol": "mCELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_mCELO.png"
+        },
+        "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7": {
+            "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+            "id": "moola-euro",
+            "color": "#8d6268",
+            "ethAddress": "",
+            "name": "Moola cEUR",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_mcEUR.png"
+        },
+        "0x64dEFa3544c695db8c535D289d843a189aa26b98": {
+            "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+            "id": "moola-cusd",
+            "color": "#416aa3",
+            "ethAddress": "",
+            "name": "Moola cUSD",
+            "symbol": "mcUSD",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_mcUSD.png"
+        },
         "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC": {
             "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
             "id": "ubeswap",
@@ -47,6 +107,30 @@
             "precision": 4,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
+        },
+        "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e": {
+            "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
+            "id": "rewards-celo",
+            "color": "#557064",
+            "ethAddress": "",
+            "name": "Rewards CELO",
+            "symbol": "rCELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_rCELO.png"
+        },
+        "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA": {
+            "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+            "id": "savings-celo",
+            "color": "#6f6776",
+            "ethAddress": "",
+            "name": "Savings CELO",
+            "symbol": "sCELO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_sCELO.png"
         }
     },
     "untrusted": [
