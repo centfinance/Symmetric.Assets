@@ -7,7 +7,7 @@
             "ethAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
             "name": "Wrapped Bitcoin",
             "symbol": "cBTC",
-            "decimals": 8,
+            "decimals": 18,
             "precision": 6,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cBTC.png"
@@ -20,7 +20,7 @@
             "name": "Wrapped Ether",
             "symbol": "cETH",
             "decimals": 18,
-            "precision": 4,
+            "precision": 5,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cETH.svg"
         },
