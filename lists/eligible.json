@@ -14,43 +14,42 @@
 		"0xfB66054D9C7b357b3134Dc47eD54EddAcc012f44": "uncapped"
 	},
 	"sokol": {
-		"0xc655c6D80ac92d75fBF4F40e95280aEb855B1E87": "uncapped",
-		"0x408eC1Bb883dA0EA0fb3C955ea6BEfcd05Aa7C3A": "uncapped",
-		"0x705581f5830Cfd11715020543f5309ADEBdbd074": "uncapped",
-		"0xB7c91068aC96051573465E43603600C0684a7002": "uncapped"
+		"poa-network": "uncapped",
+		"xdai-stake": "uncapped",
+		"wrapped-xdai": "uncapped",
+		"ethereum": "uncapped"
 	},
 	"xdai": {
-		"0x3a97704a1b25f08aa230ae53b352e2e72ef52843": "uncapped",
-		"0x6b175474e89094c44da98b954eedeac495271d0f": "uncapped",
-		"0x2bf2ba13735160624a0feae98f6ac8f70885ea61": "uncapped",
-		"0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE": "uncapped",
-		"0x514910771af9ca656af840dff83e8264ecf986ca": "uncapped",
-		"0x63e62989d9eb2d37dfdb1f93a22f063635b07d51": "uncapped",
-		"0x0ae055097c6d159879521c384f1d2123d1f195e6": "uncapped",
-		"0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": "uncapped",
-		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "uncapped",
-		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "uncapped",
-		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "uncapped",
-		"0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": "uncapped"
+		"agave-token": "uncapped",
+		"dai": "uncapped",
+		"fraction": "uncapped",
+		"honey": "uncapped",
+		"chainlink": "uncapped",
+		"minerva-wallet": "uncapped",
+		"xdai-stake": "uncapped",
+		"symmetric": "uncapped",
+		"usd-coin": "uncapped",
+		"wrapped-bitcoin": "uncapped",
+		"ethereum": "uncapped",
+		"wrapped-xdai": "uncapped"
 	},
 	"alfajores": {
-		"0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9": "uncapped",
-		"0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1": "uncapped",
-		"0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F": "uncapped"
-		
+		"celo": "uncapped",
+		"celo-dollar": "uncapped",
+		"celo-euro": "uncapped"
 	},
 	"celo": {
-		"0xD629eb00dEced2a080B7EC630eF6aC117e614f1b": "uncapped",
-		"0x2DEf4285787d58a2f811AF24755A8150622f4361": "uncapped",
-		"0x471EcE3750Da237f93B8E339c536989b8978a438": "uncapped",
-		"0x765DE816845861e75A25fCA122bb6898B8B1282a": "uncapped",
-		"0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73": "uncapped",
-		"0x7037F7296B2fc7908de7b57a89efaa8319f0C500": "uncapped",
-		"0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7": "uncapped",
-		"0x64dEFa3544c695db8c535D289d843a189aa26b98": "uncapped",
-		"0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC": "uncapped",
-		"0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e": "uncapped",
-		"0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA": "uncapped"
+		"wrapped-bitcoin": "uncapped",
+		"ethereum": "uncapped",
+		"celo": "uncapped",
+		"celo-dollar": "uncapped",
+		"celo-euro": "uncapped",
+		"moola-celo": "uncapped",
+		"moola-euro": "uncapped",
+		"moola-cusd": "uncapped",
+		"ubeswap": "uncapped",
+		"rewards-celo": "uncapped",
+		"savings-celo": "uncapped"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "uncapped",
