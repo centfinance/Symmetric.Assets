@@ -43,13 +43,7 @@
 		"ethereum": "uncapped",
 		"celo": "uncapped",
 		"celo-dollar": "uncapped",
-		"celo-euro": "uncapped",
-		"moola-celo": "uncapped",
-		"moola-euro": "uncapped",
-		"moola-cusd": "uncapped",
-		"ubeswap": "uncapped",
-		"rewards-celo": "uncapped",
-		"savings-celo": "uncapped"
+		"celo-euro": "uncapped"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "uncapped",
