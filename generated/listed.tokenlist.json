@@ -900,6 +900,14 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
         },
         {
+            "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
+            "chainId": 42220,
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        {
             "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
             "chainId": 42220,
             "name": "Ubeswap",
