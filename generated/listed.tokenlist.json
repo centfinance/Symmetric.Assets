@@ -900,6 +900,38 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
         },
         {
+            "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
+            "chainId": 42220,
+            "name": "KnoxEdge",
+            "symbol": "KNX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_KNX.png"
+        },
+        {
+            "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+            "chainId": 42220,
+            "name": "Mobius DAO Token",
+            "symbol": "MOBI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_MOBI.png"
+        },
+        {
+            "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+            "chainId": 42220,
+            "name": "Moola",
+            "symbol": "MOO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_MOO.png"
+        },
+        {
+            "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+            "chainId": 42220,
+            "name": "PoofCash",
+            "symbol": "POOF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_POOF.png"
+        },
+        {
             "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
             "chainId": 42220,
             "name": "Symmetric",
@@ -914,6 +946,30 @@
             "symbol": "UBE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
+        },
+        {
+            "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+            "chainId": 42220,
+            "name": "Optics USDC",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
+        },
+        {
+            "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+            "chainId": 42220,
+            "name": "Optics WBTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+            "chainId": 42220,
+            "name": "Optics WETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
         }
     ]
 }
