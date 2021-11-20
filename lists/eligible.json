@@ -33,6 +33,60 @@
 		"ethereum": "uncapped",
 		"wrapped-xdai": "uncapped"
 	},
+	"avalanche": {
+		"chainlink": "uncapped",
+		"dai": "uncapped",
+		"frax": "uncapped",
+		"frax-share": "uncapped",
+		"sushi": "uncapped",
+		"symmetric": "uncapped",
+		"tether": "uncapped",
+		"tether-e": "uncapped",
+		"true-usd": "uncapped",
+		"wrapped-avax": "uncapped",
+		"wrapped-bitcoin": "uncapped"
+	},
+	"fantom": {
+		"popsicle-finance": "uncapped",
+		"spookyswap": "uncapped",
+		"symmetric": "uncapped",
+		"wrapped-fantom": "uncapped"
+	},
+	"optimism": {
+		"chainlink": "uncapped",
+		"dai": "uncapped",
+		"weth": "uncapped",
+		"symmetric": "uncapped",
+		"synthetix-network-token": "uncapped",
+		"tether": "uncapped",
+		"usd-coin": "uncapped",
+		"wrapped-bitcoin": "uncapped"
+	},
+	"polygon": {
+		"binance-coin": "uncapped",
+		"chainlink": "uncapped",
+		"dai": "uncapped",
+		"frax": "uncapped",
+		"frax-share": "uncapped",
+		"polygon": "uncapped",
+		"sushi": "uncapped",
+		"symmetric": "uncapped",
+		"tether": "uncapped",
+		"true-usd": "uncapped",
+		"usd-coin": "uncapped",
+		"uniswap": "uncapped",
+		"wrapped-bitcoin": "uncapped"
+	},
+	"solana": {
+		"serum": "uncapped",
+		"tether": "uncapped",
+		"symmetric": "uncapped",
+		"usd-coin": "uncapped",
+		"raydium": "uncapped",
+		"maps": "uncapped",
+		"bonfida": "uncapped",
+		"oxygen": "uncapped"
+	},
 	"alfajores": {
 		"celo": "uncapped",
 		"celo-dollar": "uncapped",

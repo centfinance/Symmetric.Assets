@@ -1,0 +1,108 @@
+{
+    "tokens": {
+        "0x5947bb275c521040051d82396192181b413227a3": {
+            "address": "0x5947bb275c521040051d82396192181b413227a3",
+            "name": "Chainlink",
+            "symbol": "LINK.e",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+        },
+        "0xd586e7f844cea2f87f50152665bcbc2c279d8d70": {
+            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "name": "Dai",
+            "symbol": "DAI.e",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64": {
+            "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+            "name": "Frax",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/FraxFinance/assets/master/blockchains/arbitrum/assets/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F/logo.png"
+        },
+        "0x214db107654ff987ad859f34125307783fc8e387": {
+            "address": "0x214db107654ff987ad859f34125307783fc8e387",
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/FraxFinance/assets/master/blockchains/arbitrum/assets/0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7/logo.png"
+        },
+        "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc": {
+            "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+            "name": "SushiToken",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+        },
+        "": {
+            "address": "",
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7": {
+            "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        "0xc7198437980c041c805a1edcba50c1ce5db95118": {
+            "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        "0x1c20e891bab6b1727d14da358fae2984ed9b59eb": {
+            "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+        },
+        "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+            "ethAddress": "",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://assets.website-files.com/60c39a94223c440875542a21/60e75a8bb3709882dbc7a31d_AVAXEcosystemLogoOfficial.svg"
+        },
+        "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": {
+            "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}
