@@ -1,0 +1,57 @@
+{
+    "tokens": {
+        "0x2DEf4285787d58a2f811AF24755A8150622f4361": {
+            "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+            "id": "popsicle-finance",
+            "color": "#c7bdf4",
+            "ethAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
+            "name": "Popsicle Finance",
+            "symbol": "ICE",
+            "decimals": 18,
+            "precision": 5,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/Popsicle-Finance/Popsicle.Pro/master/src/assets/images/ice.svg"
+        },
+        "0x841fad6eae12c286d1fd18d1d525dffa75c7effe": {
+            "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+            "id": "spookyswap",
+            "color": "#c28d75",
+            "ethAddress": "",
+            "name": "Spookyswap",
+            "symbol": "BOO",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://avatars.githubusercontent.com/u/81034545?s=200&v=4"
+        },
+        "": {
+            "address": "",
+            "id": "symmetric",
+            "color": "#433455",
+            "ethAddress": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345",
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": {
+            "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+            "id": "wrapped-fantom",
+            "color": "#9d9f7f",
+            "ethAddress": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+            "name": "Wrapped Fantom",
+            "symbol": "WFTM",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/fantom/info/logo.png"
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

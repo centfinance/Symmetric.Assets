@@ -1,0 +1,105 @@
+{
+    "tokens": {
+        "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": {
+            "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "id": "serum",
+            "color": "#c7bdf4",
+            "ethAddress": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "name": "Serum",
+            "symbol": "SRM",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+        },
+        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+            "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "id": "tether",
+            "color": "#c28d75",
+            "ethAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        "": {
+            "address": "",
+            "id": "symmetric",
+            "color": "#433455",
+            "ethAddress": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345",
+            "name": "Symmetric",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "id": "usd-coin",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "precision": 2,
+            "color": "#9d9f7f",
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "ethAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        },
+        "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R": {
+            "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "id": "raydium",
+            "color": "#5d6872",
+            "ethAddress": "",
+            "name": "Raydium",
+            "symbol": "RAY",
+            "decimals": 6,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/raydium-io/media-assets/master/logo.svg"
+        },
+        "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb": {
+            "address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+            "id": "maps",
+            "color": "#8d6268",
+            "ethAddress": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+            "name": "MAPS",
+            "symbol": "MAPS",
+            "decimals": 6,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://maps.me/img/logo.svg"
+        },
+        "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp": {
+            "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+            "id": "bonfida",
+            "color": "#c7bdf4",
+            "ethAddress": "",
+            "name": "Bonfida",
+            "symbol": "FIDA",
+            "decimals": 6,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/Bonfida/serum-dex-ui/master/src/assets/logo.svg"
+        },
+        "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M": {
+            "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+            "id": "oxygen",
+            "color": "#c28d75",
+            "ethAddress": "",
+            "name": "Oxygen Protocol",
+            "symbol": "OXY",
+            "decimals": 6,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://www.oxygen.org/img/logo-white.svg"
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}
