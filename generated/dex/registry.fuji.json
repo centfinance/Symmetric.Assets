@@ -1,0 +1,45 @@
+{
+    "tokens": {
+        "0xafda926d549a67229d8db529638e0bafcdb66458": {
+            "address": "0xafda926d549a67229d8db529638e0bafcdb66458",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        "0xd00ae08403b9bbb9124bb305c09058e32c39a48c": {
+            "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://assets.website-files.com/60c39a94223c440875542a21/60e75a8bb3709882dbc7a31d_AVAXEcosystemLogoOfficial.svg"
+        },
+        "0x29d861c32f28112547cf5e2d7487b33506570981": {
+            "address": "0x29d861c32f28112547cf5e2d7487b33506570981",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        "0x969771454b8a9b40e5578d38f16c91313fa67baf": {
+            "address": "0x969771454b8a9b40e5578d38f16c91313fa67baf",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

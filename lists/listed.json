@@ -47,11 +47,22 @@
 		"0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
 		"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
 	],
+	"fuji": [
+		"0xafda926d549a67229d8db529638e0bafcdb66458",
+		"0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
+		"0x29d861c32f28112547cf5e2d7487b33506570981",
+		"0x969771454b8a9b40e5578d38f16c91313fa67baf"
+	],
 	"fantom": [
 		"0x2DEf4285787d58a2f811AF24755A8150622f4361",
 		"0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
 		"",
 		"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+	],
+	"fantom-testnet": [
+		"0xa5afdcaad3e67261e2dee707476699ef968cf57c",
+		"0x2d7cd0f70bd71c6bc382cfc752972f41f1f0acd6",
+		"0x1957d5e8496628d755a4b2151bca03ecc379bdd6"
 	],
 	"optimism": [
 		"0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
@@ -62,6 +73,12 @@
 		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
 		"0x7f5c764cbc14f9669b88837ca1490cca17c31607",
 		"0x68f180fcce6836688e9084f035309e29bf0a2095"
+	],
+	"optimism-kovan": [
+		"0x4200000000000000000000000000000000000006",
+		"0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+		"0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3",
+		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
 	],
 	"polygon": [
 		"0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
@@ -78,6 +95,10 @@
 		"0xb33eaad8d922b1083446dc23f610c2567fb5180f",
 		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
 	],
+	"polygon-mumbai": [
+		"0xaff77c74e2a3861225173c2325314842338b73e6",
+		"0xda53403df5ff2058feb9c6729fafb3996b84545b"
+	],
 	"solana": [
 		"SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
 		"Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
@@ -87,6 +108,10 @@
 		"MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
 		"EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
 		"z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M"
+	],
+	"solana-testnet": [
+		"CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp",
+		"Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS"
 	],
 	"alfajores": [
 		"0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",

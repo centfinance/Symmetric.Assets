@@ -46,10 +46,21 @@
 		"wrapped-avax": "uncapped",
 		"wrapped-bitcoin": "uncapped"
 	},
+	"fuji": {
+		"tether": "uncapped",
+		"wrapped-avax": "uncapped",
+		"wrapped-bitcoin": "uncapped",
+		"weth": "uncapped"
+	},
 	"fantom": {
 		"popsicle-finance": "uncapped",
 		"spookyswap": "uncapped",
 		"symmetric": "uncapped",
+		"wrapped-fantom": "uncapped"
+	},
+	"fantom-testnet": {
+		"wrapped-bitcoin": "uncapped",
+		"weth": "uncapped",
 		"wrapped-fantom": "uncapped"
 	},
 	"optimism": {
@@ -58,6 +69,12 @@
 		"weth": "uncapped",
 		"symmetric": "uncapped",
 		"synthetix-network-token": "uncapped",
+		"tether": "uncapped",
+		"usd-coin": "uncapped",
+		"wrapped-bitcoin": "uncapped"
+	},
+	"optimism-kovan": {
+		"weth": "uncapped",
 		"tether": "uncapped",
 		"usd-coin": "uncapped",
 		"wrapped-bitcoin": "uncapped"
@@ -77,6 +94,10 @@
 		"uniswap": "uncapped",
 		"wrapped-bitcoin": "uncapped"
 	},
+	"polygon-mumbai": {
+		"dai": "uncapped",
+		"dawywai": "uncapped"
+	},
 	"solana": {
 		"serum": "uncapped",
 		"tether": "uncapped",
@@ -86,6 +107,10 @@
 		"maps": "uncapped",
 		"bonfida": "uncapped",
 		"oxygen": "uncapped"
+	},
+	"solana-testnet": {
+		"usd-coin": "uncapped",
+		"sol": "uncapped"
 	},
 	"alfajores": {
 		"celo": "uncapped",
