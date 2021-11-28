@@ -1,0 +1,45 @@
+{
+    "tokens": {
+        "0x4200000000000000000000000000000000000006": {
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        },
+        "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
+            "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        "0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3": {
+            "address": "0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
+            "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

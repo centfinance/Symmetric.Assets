@@ -3457,6 +3457,38 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
         },
         {
+            "address": "0xafda926d549a67229d8db529638e0bafcdb66458",
+            "chainId": 43113,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
+            "chainId": 43113,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets.website-files.com/60c39a94223c440875542a21/60e75a8bb3709882dbc7a31d_AVAXEcosystemLogoOfficial.svg"
+        },
+        {
+            "address": "0x29d861c32f28112547cf5e2d7487b33506570981",
+            "chainId": 43113,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0x969771454b8a9b40e5578d38f16c91313fa67baf",
+            "chainId": 43113,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        },
+        {
             "address": "0x5947bb275c521040051d82396192181b413227a3",
             "chainId": 43114,
             "name": "Chainlink",
@@ -3535,6 +3567,30 @@
             "symbol": "WBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0xa5afdcaad3e67261e2dee707476699ef968cf57c",
+            "chainId": 4002,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0x2d7cd0f70bd71c6bc382cfc752972f41f1f0acd6",
+            "chainId": 4002,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        },
+        {
+            "address": "0x1957d5e8496628d755a4b2151bca03ecc379bdd6",
+            "chainId": 4002,
+            "name": "Wrapped Fantom",
+            "symbol": "WFTM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/fantom/info/logo.png"
         },
         {
             "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
@@ -3627,6 +3683,38 @@
         {
             "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
             "chainId": 10,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 69,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        },
+        {
+            "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "chainId": 69,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "address": "0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3",
+            "chainId": 69,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+            "chainId": 69,
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
             "decimals": 18,
@@ -3737,6 +3825,22 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
         },
         {
+            "address": "0xaff77c74e2a3861225173c2325314842338b73e6",
+            "chainId": 80001,
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "address": "0xda53403df5ff2058feb9c6729fafb3996b84545b",
+            "chainId": 80001,
+            "name": "EYWA",
+            "symbol": "EYWA",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
             "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
             "chainId": 245022934,
             "name": "Serum",
@@ -3795,6 +3899,78 @@
         {
             "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
             "chainId": 245022934,
+            "name": "Oxygen Protocol",
+            "symbol": "OXY",
+            "decimals": 6,
+            "logoURI": "https://www.oxygen.org/img/logo-white.svg"
+        },
+        {
+            "address": "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp",
+            "chainId": 9998,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS",
+            "chainId": 9998,
+            "name": "Stake pool SOL",
+            "symbol": "SOL",
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "chainId": 9999,
+            "name": "Serum",
+            "symbol": "SRM",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+        },
+        {
+            "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "chainId": 9999,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "chainId": 9999,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "chainId": 9999,
+            "name": "Raydium",
+            "symbol": "RAY",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/raydium-io/media-assets/master/logo.svg"
+        },
+        {
+            "address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+            "chainId": 9999,
+            "name": "MAPS",
+            "symbol": "MAPS",
+            "decimals": 6,
+            "logoURI": "https://maps.me/img/logo.svg"
+        },
+        {
+            "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+            "chainId": 9999,
+            "name": "Bonfida",
+            "symbol": "FIDA",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Bonfida/serum-dex-ui/master/src/assets/logo.svg"
+        },
+        {
+            "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+            "chainId": 9999,
             "name": "Oxygen Protocol",
             "symbol": "OXY",
             "decimals": 6,
