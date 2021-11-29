@@ -62,11 +62,23 @@
 		"0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": "wrapped-avax",
 		"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": "wrapped-bitcoin"
 	},
+	"fuji": {
+		"0xafda926d549a67229d8db529638e0bafcdb66458": "tether",
+		"0xd00ae08403b9bbb9124bb305c09058e32c39a48c": "wrapped-avax",
+		"0x29d861c32f28112547cf5e2d7487b33506570981": "wrapped-bitcoin",
+		"0x969771454b8a9b40e5578d38f16c91313fa67baf": "weth"
+	},
 	"fantom": {
 		"0x2DEf4285787d58a2f811AF24755A8150622f4361": "popsicle-finance",
 		"0x841fad6eae12c286d1fd18d1d525dffa75c7effe": "spookyswap",
 		"": "symmetric",
 		"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": "wrapped-fantom"
+		
+	},
+	"fantom-testnet": {
+		"0xa5afdcaad3e67261e2dee707476699ef968cf57c": "wrapped-bitcoin",
+		"0x2d7cd0f70bd71c6bc382cfc752972f41f1f0acd6": "weth",
+		"0x1957d5e8496628d755a4b2151bca03ecc379bdd6": "wrapped-fantom"
 		
 	},
 	"optimism": {
@@ -78,6 +90,12 @@
 		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": "tether",
 		"0x7f5c764cbc14f9669b88837ca1490cca17c31607": "usd-coin",
 		"0x68f180fcce6836688e9084f035309e29bf0a2095": "wrapped-bitcoin"
+	},
+	"optimism-kovan": {
+		"0x4200000000000000000000000000000000000006": "weth",
+		"0x7f5c764cbc14f9669b88837ca1490cca17c31607": "tether",
+		"0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3": "usd-coin",
+		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": "wrapped-bitcoin"
 	},
 	"polygon": {
 		"0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3": "binance-coin",
@@ -94,6 +112,10 @@
 		"0xb33eaad8d922b1083446dc23f610c2567fb5180f": "uniswap",
 		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": "wrapped-bitcoin"
 	},
+	"polygon-mumbai": {
+		"0xaff77c74e2a3861225173c2325314842338b73e6": "dai",
+		"0xda53403df5ff2058feb9c6729fafb3996b84545b": "dawywai"
+	},
 	"solana": {
 		"SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": "serum",
 		"Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "tether",
@@ -103,6 +125,10 @@
 		"MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb": "maps",
 		"EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp": "bonfida",
 		"z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M": "oxygen"
+	},
+	"solana-testnet": {
+		"CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp": "usd-coin",
+		"Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS": "sol"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "ethereum",

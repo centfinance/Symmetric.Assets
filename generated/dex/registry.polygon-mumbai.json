@@ -1,0 +1,27 @@
+{
+    "tokens": {
+        "0xaff77c74e2a3861225173c2325314842338b73e6": {
+            "address": "0xaff77c74e2a3861225173c2325314842338b73e6",
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        "0xda53403df5ff2058feb9c6729fafb3996b84545b": {
+            "address": "0xda53403df5ff2058feb9c6729fafb3996b84545b",
+            "name": "EYWA",
+            "symbol": "EYWA",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

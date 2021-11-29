@@ -66,12 +66,22 @@
 		"0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": "#be955c",
 		"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": "#387080"
 	},
+	"fuji": {
+		"0xafda926d549a67229d8db529638e0bafcdb66458": "#416aa3",
+		"0xd00ae08403b9bbb9124bb305c09058e32c39a48c": "#be955c",
+		"0x29d861c32f28112547cf5e2d7487b33506570981": "#387080",
+		"0x969771454b8a9b40e5578d38f16c91313fa67baf": "#8b5580"
+	},
 	"fantom": {
 		"0x2DEf4285787d58a2f811AF24755A8150622f4361": "#c7bdf4",
 		"0x841fad6eae12c286d1fd18d1d525dffa75c7effe": "#c28d75",
 		"": "#433455",
 		"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": "#9d9f7f"
-		
+	},
+	"fantom-testnet": {
+		"0xa5afdcaad3e67261e2dee707476699ef968cf57c": "#387080",
+		"0x2d7cd0f70bd71c6bc382cfc752972f41f1f0acd6": "#8b5580",
+		"0x1957d5e8496628d755a4b2151bca03ecc379bdd6": "#9d9f7f"
 	},
 	"optimism": {
 		"0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6": "#c7bdf4",
@@ -82,6 +92,12 @@
 		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": "#5d6872",
 		"0x7f5c764cbc14f9669b88837ca1490cca17c31607": "#8d6268",
 		"0x68f180fcce6836688e9084f035309e29bf0a2095": "#416aa3"
+	},
+	"optimism-kovan": {
+		"0x4200000000000000000000000000000000000006": "#8b5580",
+		"0x7f5c764cbc14f9669b88837ca1490cca17c31607": "#5d6872",
+		"0x1147b3f6eca313a5b3c2aa3fb85928104a5787d3": "#8d6268",
+		"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": "#416aa3"
 	},
 	"polygon": {
 		"0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3": "#c7bdf4",
@@ -98,6 +114,10 @@
 		"0xb33eaad8d922b1083446dc23f610c2567fb5180f": "#9d9f7f",
 		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": "#5d6872"
 	},
+	"polygon-mumbai": {
+		"0xaff77c74e2a3861225173c2325314842338b73e6": "#433455",
+		"0xda53403df5ff2058feb9c6729fafb3996b84545b": "#433455"
+	},
 	"solana": {
 		"SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": "#c7bdf4",
 		"Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "#c28d75",
@@ -107,6 +127,10 @@
 		"MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb": "#8d6268",
 		"EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp": "#c7bdf4",
 		"z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M": "#c28d75"
+	},
+	"solana-testnet": {
+		"CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp": "#9d9f7f",
+		"Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS": "#9d9f7f"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "#433455",

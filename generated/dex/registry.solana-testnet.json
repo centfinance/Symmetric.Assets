@@ -1,0 +1,27 @@
+{
+    "tokens": {
+        "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp": {
+            "address": "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "precision": 2,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        "Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS": {
+            "address": "Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS",
+            "name": "Stake pool SOL",
+            "symbol": "SOL",
+            "decimals": 6,
+            "precision": 4,
+            "hasIcon": false,
+            "logoUrl": ""
+        }
+    },
+    "untrusted": [
+        "0xbef02f140BFb37a75Ed6510e8D85C9E9e7e0ff1e",
+        "0xe7d8E7742ca6906a14F7e46770Fdfe6B7014e62D",
+        "0xEC4b4fFfb58B6c85D41025b07d93167B8192062E"
+    ]
+}

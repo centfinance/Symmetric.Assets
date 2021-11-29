@@ -75,14 +75,14 @@
         "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
             "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
             "id": "usd-coin",
+            "color": "#8d6268",
+            "ethAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "name": "USDC",
             "symbol": "USDC",
             "decimals": 6,
             "precision": 2,
-            "color": "#8d6268",
             "hasIcon": true,
-            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-            "ethAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         "0x68f180fcce6836688e9084f035309e29bf0a2095": {
             "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
