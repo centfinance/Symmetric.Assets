@@ -124,10 +124,12 @@
 		"celo-dollar": "uncapped",
 		"celo-euro": "uncapped",
 		"knoxedge": "uncapped",
+		"moolacusd": "uncapped",
 		"mobius": "uncapped",
 		"moola-market": "uncapped",
 		"poofcash": "uncapped",
 		"symmetric": "uncapped",
+		"symmetricopticsv2": "uncapped",
 		"ubeswap": "uncapped",
 		"weth": "uncapped"
 	},

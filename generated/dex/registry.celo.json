@@ -54,6 +54,15 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_KNX.png"
         },
+        "0x918146359264C492BD6934071c6Bd31C854EDBc3": {
+            "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+            "name": "Moola interest bearing CUSD",
+            "symbol": "mCUSD",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_mcUSD.png"
+        },
         "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B": {
             "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
             "name": "Mobius DAO Token",
@@ -83,7 +92,16 @@
         },
         "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a": {
             "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-            "name": "Symmetric",
+            "name": "Symmetric Optics v1",
+            "symbol": "SYMM",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        },
+        "0x8427bD503dd3169cCC9aFF7326c15258Bc305478": {
+            "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+            "name": "Symmetric Optics v2",
             "symbol": "SYMM",
             "decimals": 18,
             "precision": 4,
