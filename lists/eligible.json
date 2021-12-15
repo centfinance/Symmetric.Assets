@@ -23,6 +23,7 @@
 		"agave-token": "uncapped",
 		"dai": "uncapped",
 		"fraction": "uncapped",
+		"gnosis": "uncapped",
 		"honey": "uncapped",
 		"chainlink": "uncapped",
 		"minerva-wallet": "uncapped",
