@@ -38,6 +38,15 @@
 			"hasIcon": true,
 			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
 		},
+		"0x9c58bacc331c9aa871afd802db6379a98e80cedb": {
+			"address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+			"name": "Gnosis Token on xDai",
+			"symbol": "GNO",
+			"decimals": 18,
+			"precision": 3,
+			"hasIcon": true,
+			"logoUrl": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+		},
 		"0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9": {
 			"address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
 			"name": "Honey",

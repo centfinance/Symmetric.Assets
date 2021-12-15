@@ -36,6 +36,18 @@
 			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
             "ethAddress": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61"
 		},
+        "0x9c58bacc331c9aa871afd802db6379a98e80cedb": {
+			"address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+            "id": "gnosis",
+			"name": "Gnosis Token on xDai",
+			"symbol": "GNO",
+			"decimals": 18,
+			"precision": 3,
+            "color": "#6f6776",
+			"hasIcon": true,
+			"logoUrl": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668",
+            "ethAddress": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+		},
         "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9": {
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "id": "honey",
