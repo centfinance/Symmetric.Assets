@@ -36,8 +36,8 @@
 			"logoUrl": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
             "ethAddress": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61"
 		},
-        "0x9c58bacc331c9aa871afd802db6379a98e80cedb": {
-			"address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+        "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb": {
+			"address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
             "id": "gnosis",
 			"name": "Gnosis Token on xDai",
 			"symbol": "GNO",
