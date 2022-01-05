@@ -951,7 +951,7 @@
             "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
             "chainId": 42220,
             "name": "Symmetric Optics v1",
-            "symbol": "SYMM",
+            "symbol": "SYMMv1",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
         },
@@ -959,7 +959,7 @@
             "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
             "chainId": 42220,
             "name": "Symmetric Optics v2",
-            "symbol": "SYMM",
+            "symbol": "SYMMv2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
         },
