@@ -119,20 +119,27 @@
 		"celo-euro": "uncapped"
 	},
 	"celo": {
+		"ari-swap": "uncapped",
 		"wrapped-bitcoin": "uncapped",
 		"ethereum": "uncapped",
 		"celo": "uncapped",
 		"celo-dollar": "uncapped",
 		"celo-euro": "uncapped",
+		"celo-brazilian-real": "uncapped",
+		"mceur": "uncapped",
 		"knoxedge": "uncapped",
 		"moolacusd": "uncapped",
 		"mobius": "uncapped",
 		"moola-market": "uncapped",
 		"poofcash": "uncapped",
+		"sushi": "uncapped",
 		"symmetric": "uncapped",
 		"symmetricopticsv2": "uncapped",
+		"wrapped-bitcoin-optics-v1": "uncapped",
+		"wrapped-bitcoin-optics-v2": "uncapped",
 		"ubeswap": "uncapped",
-		"weth": "uncapped"
+		"weth-optics-v1": "uncapped",
+		"weth-optics-v2": "uncapped"
 	},
 	"homestead": {
 		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "uncapped",

@@ -1,5 +1,14 @@
 {
     "tokens": {
+        "0x20677d4f3d0F08e735aB512393524A3CfCEb250C": {
+            "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
+            "name": "Ariswap",
+            "symbol": "ARI",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ARI.png"
+        },
         "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b": {
             "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
             "name": "Celo Wrapped Bitcoin",
@@ -44,6 +53,24 @@
             "precision": 4,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
+        },
+        "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787": {
+            "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+            "name": "Celo Real",
+            "symbol": "cREAL",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+        },
+        "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568": {
+            "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+            "name": "Moola cEUR",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
         },
         "0xa81D9a2d29373777E4082d588958678a6Df5645c": {
             "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
@@ -90,6 +117,15 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_POOF.png"
         },
+        "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1": {
+            "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+            "name": "Optics v2 SUSHI",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SUSHI.png"
+        },
         "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a": {
             "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
             "name": "Symmetric Optics v1",
@@ -135,6 +171,15 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
         },
+        "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B": {
+            "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+            "name": "Optics v2 WBTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "precision": 6,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+        },
         "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4": {
             "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
             "name": "Optics WETH",
@@ -143,6 +188,15 @@
             "precision": 5,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
+        },
+        "0x122013fd7dF1C6F636a5bb8f03108E876548b455": {
+            "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+            "name": "Optics v2 WETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "precision": 5,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
         }
     },
     "untrusted": [
