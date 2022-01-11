@@ -3,7 +3,7 @@
         "0x20677d4f3d0F08e735aB512393524A3CfCEb250C": {
             "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
             "id": "ari-swap",
-            "color": "#c7bdf4",
+            "color": "#666092",
             "ethAddress": "",
             "name": "Ariswap",
             "symbol": "ARI",
@@ -75,7 +75,7 @@
         "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787": {
             "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
             "id": "celo-brazilian-real",
-            "color": "#5d6872",
+            "color": "#8b5580",
             "ethAddress": "",
             "name": "Celo Real",
             "symbol": "cREAL",
@@ -87,7 +87,7 @@
         "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568": {
             "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
             "id": "mceur",
-            "color": "#8d6268",
+            "color": "#c5ccb8",
             "ethAddress": "",
             "name": "Moola cEUR",
             "symbol": "mcEUR",
@@ -159,7 +159,7 @@
         "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1": {
             "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
             "id": "sushi",
-            "color": "#be955c",
+            "color": "#9a9a97",
             "ethAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
             "name": "Optics v2 SUSHI",
             "symbol": "SUSHI",
@@ -219,7 +219,7 @@
         "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B": {
             "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
             "id": "wrapped-bitcoin-optics-v2",
-            "color": "#6e6962",
+            "color": "#a593a5",
             "ethAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "name": "Optics v2 WBTC",
             "symbol": "WBTC",
@@ -243,7 +243,7 @@
         "0x122013fd7dF1C6F636a5bb8f03108E876548b455": {
             "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
             "id": "weth-optics-v2",
-            "color": "#6eaa78",
+            "color": "#666092",
             "ethAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "name": "Optics v2 WETH",
             "symbol": "WETH",
