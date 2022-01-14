@@ -138,6 +138,7 @@
 		"wrapped-bitcoin-optics-v1": "uncapped",
 		"wrapped-bitcoin-optics-v2": "uncapped",
 		"ubeswap": "uncapped",
+		"usdc": "uncapped",
 		"weth-optics-v1": "uncapped",
 		"weth-optics-v2": "uncapped"
 	},
