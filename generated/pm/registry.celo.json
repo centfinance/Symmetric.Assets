@@ -204,6 +204,18 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
         },
+        "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7": {
+            "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+            "id": "usdc",
+            "color": "#c28d75",
+            "ethAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "Optics USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "precision": 5,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
+        },
         "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE": {
             "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
             "id": "wrapped-bitcoin-optics-v1",
