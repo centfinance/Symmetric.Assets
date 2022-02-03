@@ -81,6 +81,15 @@
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_KNX.png"
         },
+        "0x9802d866fdE4563d088a6619F7CeF82C0B991A55": {
+            "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+            "name": "Moola interest bearing CREAL",
+            "symbol": "mCREAL",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/13021.png"
+        },
         "0x918146359264C492BD6934071c6Bd31C854EDBc3": {
             "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
             "name": "Moola interest bearing CUSD",
@@ -107,6 +116,15 @@
             "precision": 4,
             "hasIcon": true,
             "logoUrl": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_MOO.png"
+        },
+        "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58": {
+            "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+            "name": "impactMarket",
+            "symbol": "PACT",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16260.png"
         },
         "0x00400FcbF0816bebB94654259de7273f4A05c762": {
             "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
