@@ -1,12 +1,12 @@
 [
 {
-    "title":"SYMM V1 is retiring",
-    "link":"https://docs.symmetric.exchange",
-    "description": "SYMM V1 description that it is going off the pools and if you have any SYMM v1 then please remove yor liquidity as there will be no rewards for SYMM V1."
+    "title":"Important Announcements",
+    "link":"",
+    "description": "This tile will display important announcements to users."
 },
 {
-    "title":"SYMM V2 Rewards are live",
-    "link":"https://docs.symmetric.exchange",
-    "description": "SYMM V2 rewards live on Celo and Gnosis"
+    "title":"SYMM V1 Rewards end this Thursday Feb 10th, 2022",
+    "link":"",
+    "description": "SYMM V2 rewards are now live on Celo and Gnosis"
 }
 ]
