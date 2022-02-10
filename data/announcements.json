@@ -2,11 +2,11 @@
 {
     "title":"Important Announcements",
     "link":"",
-    "description": "This tile will display important announcements to users."
+    "description": "This section will display announcements for users, please check regularly!"
 },
 {
-    "title":"SYMM V1 Rewards end this Thursday Feb 10th, 2022",
-    "link":"",
-    "description": "SYMM V2 rewards are now live on Celo and Gnosis"
+    "title":"SYMM rewards ending on SYMM v1 pools on Celo at 4:44 pm UTC, Thursday February 10th, 2022",
+    "link":"https://celo.symmetric.exchange/#/swap",
+    "description": "Rewards are live on replacement SYMM v2 pools on Celo, please swap all your SYMM v1 tokens for SYMM v2 tokens using posted link"
 }
 ]
