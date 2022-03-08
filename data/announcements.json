@@ -5,8 +5,8 @@
     "description": "This section will display important announcements and information, please check regularly!"
 },
 {
-    "title":" New Charts, Token and Pool info. page now live (in beta). Reward changes on Moo, Poof & Ari pools and rewards expired on 'SYMM v1 token' pools on Celo",
+    "title":"Charts, Token and Pool info. page now live in beta. Rewards expired on 'SYMM v1 token' pools on Celo",
     "link":"https://celo.symmetric.exchange/#/swap",
-    "description": "Explore new charts/token/pools page through charts link in menu. Swap all remaining SYMM v1 token on Celo for SYMM v2 token using link provided"
+    "description": "Explore new page through charts link in menu. Swap all remaining SYMM v1 token on Celo for SYMM v2 token using link"
 }
 ]
