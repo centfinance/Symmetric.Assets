@@ -748,12 +748,28 @@
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
         },
         {
+            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+            "chainId": 100,
+            "name": "CoW Protocol Token from Mainnet",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24384/small/COW-token-1024x1024.png"
+        },
+        {
             "address": "0x44fA8E6f47987339850636F88629646662444217",
             "chainId": 100,
             "name": "Dai Stablecoin on xDai",
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
+            "chainId": 100,
+            "name": "DAOhaus Token from Ethereum",
+            "symbol": "HAUS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png"
         },
         {
             "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
@@ -938,6 +954,14 @@
             "symbol": "KNX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_KNX.png"
+        },
+        {
+            "address": "0x266C13DeD5A1d636E502fd56B3F76d38c3107EC2",
+            "chainId": 42220,
+            "name": "kusd",
+            "symbol": "KUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_kusd.png"
         },
         {
             "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
