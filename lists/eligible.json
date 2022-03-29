@@ -21,7 +21,9 @@
 	},
 	"xdai": {
 		"agave-token": "uncapped",
+		"cow-protocol": "uncapped",
 		"dai": "uncapped",
+		"daohaus": "uncapped",
 		"fraction": "uncapped",
 		"gnosis": "uncapped",
 		"honey": "uncapped",
@@ -128,6 +130,7 @@
 		"celo-brazilian-real": "uncapped",
 		"mceur": "uncapped",
 		"knoxedge": "uncapped",
+		"kusd": "uncapped",
 		"mcreal": "uncapped",
 		"moolacusd": "uncapped",
 		"mobius": "uncapped",
