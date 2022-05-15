@@ -1,12 +1,12 @@
 [
 {
-    "title":"Important Announcements",
+    "title":"Announcements",
     "link":"",
     "description": "This section will display important announcements and information, please check regularly!"
 },
 {
-    "title":"New rewards now live on both Gnosis chain andd Celo",
-    "link":"",
-    "description": "Please follow us on Discord for the latest updates on rewards"
+    "title":"Reward updates now live on both Gnosis and Celo",
+    "link":"https://discord.gg/4FyQF43cMhv",
+    "description": "Please follow us on Discord for the latest updates on rewards, using the link above"
 }
 ]
